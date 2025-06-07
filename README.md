@@ -1,5 +1,7 @@
-- 👋 Hello, I am Jit Woon, a postgraduate student in Singapore!
-- 👀 I’m interested in Data Science and Machine Learning. I am current working as a data analyst in the e-commerce industry.
-- 🌱 I’m currently working on machine learning projects to make sense of large datasets and create optimisation models.
-- 💞️ I’m interested in e-commerce and predicting housing prices, as well as stock valuations/investment strategy.
-
+- Hi there, I am Jit Woon from Singapore!
+- I’m interested in ML projects related to sales and marketing - some examples include churn analysis, customer segmentation and sales prediction.
+- I previously worked in the consumer goods industry - in Business Intelligence and Strategic Planning (Nike and Dyson). Prior to that I mostly worked in finance doing financial analysis and IT budgeting.
+- I’m currently taking an extended break from work - spending my time to do some data science projects, and learning about LLM applications.
+- I like to travel and explore new places (I went to Japan, USA and Switzerland at the end of 2024 in one single trip!).
+- I am also a huge foodie - Taiwan and Thailand are my favourite countries in terms of food :) 
+- My greatest strengths are bridging data & insights with commercial strategy - I strive to deliver impact to stakeholders from my work, and I have a keen understanding of business models, having worked in different industries.
