@@ -1,6 +1,6 @@
 - Hi there, I am Jit Woon from Singapore!
 - I’m interested in ML projects related to sales and marketing - some examples include churn analysis, customer segmentation and sales prediction.
-- I previously worked in the consumer goods industry - in Business Intelligence and Strategic Planning (Nike and Dyson). Prior to that I mostly worked in finance doing financial analysis and IT budgeting.
+- I previously worked in the consumer goods industry - in marketing analytics and business planning (Nike and Dyson). Prior to that I mostly worked in finance doing financial analysis and IT budgeting.
 - I’m currently taking an extended break from work - spending my time to do some data science projects, and learning about LLM applications.
 - I like to travel and explore new places (I went to Japan, USA and Switzerland at the end of 2024 in one single trip!).
 - I am also a huge foodie - Taiwan and Thailand are my favourite countries in terms of food :) 
